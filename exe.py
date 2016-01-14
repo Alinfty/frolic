@@ -3,7 +3,7 @@
 import socket
 import parser
 
-if __name__=="__main++":
+if __name__=="__main__":
 	host=''
 	port=80
 	BUFFER_SIZE=1024
